@@ -53,6 +53,7 @@ function scanPosts() {
                 category: category,
                 title: title,
                 excerpt: excerpt,
+                content: content,
                 createdAt: stats.birthtime.getTime()
             });
         });

@@ -109,10 +109,11 @@ class BlogPosts {
             const formattedDate = this.formatDate(post.createdAt, post.filename);
             const title = post.title || this.formatTitleFromFilename(post.filename);
             const postPath = `posts/${post.category}/${post.filename}`;
+            const postUrl = `post.html?p=${encodeURIComponent(postPath)}`;
             
             return `
                 <article class="post-item">
-                    <h3><a href="${postPath}">${title}</a></h3>
+                    <h3><a href="${postUrl}">${title}</a></h3>
                     <div class="post-meta">
                         <span class="post-date">${formattedDate}</span>
                         ${this.currentCategory === 'all' ? `<span class="post-category">${post.category}</span>` : ''}
