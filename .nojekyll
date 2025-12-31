@@ -1,0 +1,3 @@
+# This file tells GitHub Pages to skip Jekyll processing
+# Since we're using a static site with JavaScript, we don't need Jekyll
+
