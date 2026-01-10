@@ -1,6 +1,6 @@
 # Stay Hungry, Stay Foolish: Life Lessons from Steve Jobs
 
-In 2005, **Steve Jobs** stood on the stage at Stanford University and did something rare. Instead of delivering polished advice or motivational clichés, he told three honest stories from his life. Stories filled with uncertainty, failure, curiosity, love, loss, and mortality. Together, they formed a philosophy that still resonates deeply with anyone trying to find meaning in their work and direction in their life.
+In 2005, Steve Jobs stood on the stage at Stanford University and did something rare. Instead of delivering polished advice or motivational clichés, he told three honest stories from his life. Stories filled with uncertainty, failure, curiosity, love, loss, and mortality. Together, they formed a philosophy that still resonates deeply with anyone trying to find meaning in their work and direction in their life.
 
 The first story was about connecting the dots.
 
